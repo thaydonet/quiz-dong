@@ -1,6 +1,6 @@
 [
   {
-    "lesson": "Đạo hàm",
+    "lesson_id": 1,
     "question": "Giá trị của x nếu 2x + 3 = 7 là?",
     "options": {
       "a": "1",
@@ -8,10 +8,11 @@
       "c": "3",
       "d": "4"
     },
-    "correct": "b"
+    "correct": "b",
+    "solution": "2x + 3 = 7 \u21d2 x = 2"
   },
   {
-    "lesson": "Logarit",
+    "lesson_id": 2,
     "question": "Giá trị của log_2 8 là?",
     "options": {
       "a": "2",
@@ -19,6 +20,7 @@
       "c": "4",
       "d": "8"
     },
-    "correct": "b"
+    "correct": "b",
+    "solution": "8 = 2^3 nên log_2 8 = 3"
   }
 ]
